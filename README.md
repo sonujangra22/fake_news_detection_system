@@ -60,7 +60,7 @@ pip install re
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kapilsinghnegi/Fake-News-Detection.git
+git clone https://github.com/sonujangra22/fake_news_detection_system
 ```
 
 2. Navigate to the project directory:
